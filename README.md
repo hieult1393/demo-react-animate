@@ -1,1 +1,1 @@
-##This is an small demo for React Animate Css
+#This is an small demo for React Animate Css
